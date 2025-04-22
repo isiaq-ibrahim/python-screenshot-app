@@ -13,6 +13,8 @@ A lightweight and easy-to-use screenshot application built with Python 3.10.7 an
 - PyAutoGUI
 
 📂 Installation
+1. Make sure you have Python installed on your machine. To prevent compatibility issues, make sure you install Python 3.10 to 3.11
+
 ```
 pip install pyautogui
 ```
